@@ -32,8 +32,8 @@
 </image> 
 	<item>
 		<title>Wpohina saunatuoksu</title>
-		<link>/product/wpohina-saunatuoksu/</link>
-					<comments>/product/wpohina-saunatuoksu/#respond</comments>
+		<link>/shop</link>
+					<comments>/shop#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Tue, 21 Nov 2023 17:24:35 +0000</pubDate>
@@ -47,7 +47,7 @@
 <p>NÄMÄ OVAT OPPIYRITYKSEN VERKKOSIVUT EIKÄ VERKKOKAUPPA OLE TOIMIVA. ETHÄN SIIS KOITA TILATA VERKKOKAUPASTA TUOTTEITA</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/wpohina-saunatuoksu/feed/</wfw:commentRss>
+					<wfw:commentRss>/shopfeed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
